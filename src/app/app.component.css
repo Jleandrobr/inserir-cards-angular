@@ -1,0 +1,25 @@
+.mat-card-simples{
+  max-width: 300px;
+  background-color: aliceblue;
+  margin-top: 10px;
+}
+
+.cadastro-card{
+  margin-top: 10px;
+  width: 750px;
+}
+
+.mat-card-title{
+  color: antiquewhite;
+}
+
+.mat-card-button{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 10px;
+}
+
+.mat-card-form-field{
+  padding: 10px;
+}
